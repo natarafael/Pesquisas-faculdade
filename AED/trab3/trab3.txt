@@ -1,0 +1,22 @@
+70;O Senhor dos Aneis; J. R. R. Tolkien;5
+30;As Brumas de Avalon; Marion Zimmer Bradley;2
+150;Sapiens: uma breve historia da humanidade;Yuval Harari;11
+20;Principios e Praticas de Programacao com C++; Bjarne Stroustrup;3
+10;Programming in Prolog; W. Clocksin;2
+90;Primeiras Estorias; Joao Guimaraes Rosa;4
+111;Memorial de Maria Moura; Rachel de Queiroz;5
+6;Memorias Postumas de Bras Cubas;Joaquim Maria Machado de Assis;7
+45;O Discurso do Metodo; Rene Descartes;3
+200;Ulisses; James Joyce;7
+130;Neuropsicologia Geriátrica; Leonardo Caixeta;2
+4;Redes Neurais; Simon Haykin;4
+8;A Semantic Web Primer; Grigoris Antoniou;7
+17;Artificial Intelligence and Intelligent Systems; N.P. Padhy;2
+25;Web Semantica: a Internet do Futuro; Karin Breitman;4
+80;Building Intelligent Interactive Tutors; Beverly Park Woolf;3
+60;Casos Filosoficos; Martin Cohen;5
+160;O Valor da Ciencia;Henri Poincare;2
+180;A Republica; Platao;7
+170;Introducao a Algoritmos; Cormen;5
+190;Algoritmos; Sanjoy Dasgupta;2
+100;O Melhor Cerebro da sua Vida; Barbara Strauch;3
