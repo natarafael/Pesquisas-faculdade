@@ -1,0 +1,35 @@
+ID: 1		|		Prioridade: 0		|		Tempo de chegada: 4		|		Estado: criado
+ID: 2		|		Prioridade: 2		|		Tempo de chegada: 12		|		Estado: criado
+ID: 3		|		Prioridade: 1		|		Tempo de chegada: 2		|		Estado: criado
+-------------------------
+
+ID: 1		|		Prioridade: 0		|		Tempo de chegada: 4		|		Tempo de espera: 0		|		Estado: pronto
+ID: 3		|		Prioridade: 1		|		Tempo de chegada: 2		|		Tempo de espera: 4		|		Estado: pronto
+ID: 2		|		Prioridade: 2		|		Tempo de chegada: 12		|		Tempo de espera: 6		|		Estado: pronto
+-------------------------
+
+ID: 1		|		Prioridade: 0		|		Tempo de chegada: 4		|		Tempo de espera: 0		|		Estado: em execucao
+ID: 3		|		Prioridade: 1		|		Tempo de chegada: 2		|		Tempo de espera: 4		|		Estado: pronto
+ID: 2		|		Prioridade: 2		|		Tempo de chegada: 12		|		Tempo de espera: 6		|		Estado: pronto
+-------------------------
+
+ID: 1		|		Prioridade: 0		|		Tempo de chegada: 4		|		Tempo de espera: 0		|		Estado: encerrado
+ID: 3		|		Prioridade: 1		|		Tempo de chegada: 2		|		Tempo de espera: 4		|		Estado: pronto
+ID: 2		|		Prioridade: 2		|		Tempo de chegada: 12		|		Tempo de espera: 6		|		Estado: pronto
+-------------------------
+
+ID: 3		|		Prioridade: 1		|		Tempo de chegada: 2		|		Tempo de espera: 4		|		Estado: em execucao
+ID: 2		|		Prioridade: 2		|		Tempo de chegada: 12		|		Tempo de espera: 6		|		Estado: pronto
+-------------------------
+
+ID: 3		|		Prioridade: 1		|		Tempo de chegada: 2		|		Tempo de espera: 4		|		Estado: encerrado
+ID: 2		|		Prioridade: 2		|		Tempo de chegada: 12		|		Tempo de espera: 6		|		Estado: pronto
+-------------------------
+
+ID: 2		|		Prioridade: 2		|		Tempo de chegada: 12		|		Tempo de espera: 6		|		Estado: em execucao
+-------------------------
+
+ID: 2		|		Prioridade: 2		|		Tempo de chegada: 12		|		Tempo de espera: 6		|		Estado: encerrado
+-------------------------
+
+Tempo medio de espera = 3.33

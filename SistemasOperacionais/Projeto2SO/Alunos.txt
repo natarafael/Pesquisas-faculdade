@@ -1,0 +1,16 @@
+Alunos:
+Natã Rafael Cruz de Jesus
+Vivian Miwa Fugihara
+
+Referencias:
+Sistemas operacionais modernos, A. S. Tanenbaum, 2, Prentice-Hall, 2003
+
+https://docs.oracle.com
+
+https://stackoverflow.com
+
+Princípios de sistemas operacionais - projetos e aplicações, Brian L. Stuart, Cengage learning, 2010
+
+www.youtube.com
+
+Para criação de diagramas: https://app.creately.com

@@ -1,0 +1,49 @@
+ID: 1		|		Duração: 13		|		estado: criado
+ID: 5		|		Duração: 5		|		estado: criado
+ID: 13		|		Duração: 6		|		estado: criado
+ID: 3		|		Duração: 2		|		estado: criado
+-------------------------
+
+ID: 3		|		Duração: 2		|		tempo de espera: 0		|		estado: pronto
+ID: 5		|		Duração: 5		|		tempo de espera: 2		|		estado: pronto
+ID: 13		|		Duração: 6		|		tempo de espera: 7		|		estado: pronto
+ID: 1		|		Duração: 13		|		tempo de espera: 13		|		estado: pronto
+-------------------------
+
+ID: 3		|		Duração: 2		|		tempo de espera: 0		|		estado: em execucao
+ID: 5		|		Duração: 5		|		tempo de espera: 2		|		estado: pronto
+ID: 13		|		Duração: 6		|		tempo de espera: 7		|		estado: pronto
+ID: 1		|		Duração: 13		|		tempo de espera: 13		|		estado: pronto
+-------------------------
+
+ID: 3		|		Duração: 2		|		tempo de espera: 0		|		estado: encerrado
+ID: 5		|		Duração: 5		|		tempo de espera: 2		|		estado: pronto
+ID: 13		|		Duração: 6		|		tempo de espera: 7		|		estado: pronto
+ID: 1		|		Duração: 13		|		tempo de espera: 13		|		estado: pronto
+-------------------------
+
+ID: 5		|		Duração: 5		|		tempo de espera: 2		|		estado: em execucao
+ID: 13		|		Duração: 6		|		tempo de espera: 7		|		estado: pronto
+ID: 1		|		Duração: 13		|		tempo de espera: 13		|		estado: pronto
+-------------------------
+
+ID: 5		|		Duração: 5		|		tempo de espera: 2		|		estado: encerrado
+ID: 13		|		Duração: 6		|		tempo de espera: 7		|		estado: pronto
+ID: 1		|		Duração: 13		|		tempo de espera: 13		|		estado: pronto
+-------------------------
+
+ID: 13		|		Duração: 6		|		tempo de espera: 7		|		estado: em execucao
+ID: 1		|		Duração: 13		|		tempo de espera: 13		|		estado: pronto
+-------------------------
+
+ID: 13		|		Duração: 6		|		tempo de espera: 7		|		estado: encerrado
+ID: 1		|		Duração: 13		|		tempo de espera: 13		|		estado: pronto
+-------------------------
+
+ID: 1		|		Duração: 13		|		tempo de espera: 13		|		estado: em execucao
+-------------------------
+
+ID: 1		|		Duração: 13		|		tempo de espera: 13		|		estado: encerrado
+-------------------------
+
+Tempo medio de espera=5.50
